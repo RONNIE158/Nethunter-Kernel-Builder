@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "MikasaNethunter",
+      "name": "beryllium",
       "repo": "https://github.com/RONNIE158/android_kernel_xiaomi_sdm845.git",
-      "branch": "Light",
-      "device": "mikasa"
+      "branch": "nighty",
+      "device": "beryllium"
     },
     "withKernelSU": false,
     "toolchains": [
