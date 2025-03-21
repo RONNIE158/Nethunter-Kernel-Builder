@@ -2,7 +2,7 @@
     "kernelSource": {
       "name": "beryllium",
       "repo": "https://github.com/RONNIE158/android_kernel_xiaomi_sdm845.git",
-      "branch": "nighty",
+      "branch": "lineage-21",
       "device": "beryllium"
     },
     "withKernelSU": false,
