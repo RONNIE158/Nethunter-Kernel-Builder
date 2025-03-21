@@ -1,7 +1,7 @@
 [  {
     "kernelSource": {
       "name": "MikasaNethunter",
-      "repo": "https://github.com/noophyy/mikasa_kernel_realme2_c1.git",
+      "repo": "https://github.com/RONNIE158/android_kernel_xiaomi_sdm845.git",
       "branch": "Light",
       "device": "mikasa"
     },
